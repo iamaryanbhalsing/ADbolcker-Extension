@@ -30,4 +30,5 @@ The internet should be fast, private, and enjoyable. ADLocker gives users greate
 
 ADLocker — Lock Out Ads. Unlock a Better Web. 🔒🚀
 
-Developed by Aryan Bhalsing.
+# Developed by 
+## Aryan Bhalsing.
