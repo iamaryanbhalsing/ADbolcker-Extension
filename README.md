@@ -7,7 +7,7 @@
 
 # :computer: Ui
 <p align="center">
-  <img src="">
+  <img src="https://i.ibb.co/nNPJSBjG/image-2026-06-24-110745180.png">
 </p>
 ADLocker – Secure Ad Blocking & Privacy Protection
 
