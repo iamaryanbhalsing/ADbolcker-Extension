@@ -24,6 +24,13 @@ ADLocker – Secure Ad Blocking & Privacy Protection
 
 💻 Lightweight Performance – Optimized to run efficiently without slowing down your browser.
 
+# :gift: Installation:
+* Windows:
+  *Download The Zip File in Code
+  *Enable Developer Setting
+  *Load Unpaked Extension
+  *Start Surfing
+
 Why ADLocker?
 
 The internet should be fast, private, and enjoyable. ADLocker gives users greater control over their browsing experience by eliminating intrusive advertising and unnecessary tracking technologies. Whether you're studying, working, streaming, or simply browsing the web, ADLocker helps create a cleaner and more productive online environment.
