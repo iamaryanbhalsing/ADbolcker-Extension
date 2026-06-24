@@ -32,6 +32,10 @@ ADLocker – Secure Ad Blocking & Privacy Protection
 * Enable Developer Setting
 * Load Unpaked Extension
 * Start Surfing
+<p align="center">
+  <img src="https://i.ibb.co/nNPJSBjG/image-2026-06-24-110745180.png">
+</p>
+  
 
 
 # Why ADLocker?
