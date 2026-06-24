@@ -77,5 +77,5 @@ Its For Educational Purposes Only
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamaryanbhalsing&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iamaryanbhalsing&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Total All Repo views" />
 </p>
