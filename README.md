@@ -45,3 +45,33 @@ ADLocker – Secure Ad Blocking & Privacy Protection
 The internet should be fast, private, and enjoyable. ADLocker gives users greater control over their browsing experience by eliminating intrusive advertising and unnecessary tracking technologies. Whether you're studying, working, streaming, or simply browsing the web, ADLocker helps create a cleaner and more productive online environment.
 
 ADLocker — Lock Out Ads. Unlock a Better Web. 🔒🚀
+
+# Developer Info
+Made & Developed By Aryan Bhalsing
+
+If Anyone who is intrested to Add More Features Can Contribute.
+Free And Open Source For all
+Its For Educational Purposes Only
+
+# 📫 Contact & Socials
+
+<p align="center">
+  <a href="mailto:aryanbhalsing7090@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aryanbhalsing7090%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamaryanbhalsing">
+    <img src="https://img.shields.io/badge/LinkedIn-iamaryanbhalsing-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/iamaryanbhalsing">
+    <img src="https://img.shields.io/badge/GitHub-iamaryanbhalsing-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/iamaryanbhalsing">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamaryanbhalsing&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
