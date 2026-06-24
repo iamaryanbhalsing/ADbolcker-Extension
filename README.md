@@ -33,7 +33,7 @@ ADLocker – Secure Ad Blocking & Privacy Protection
 * Load Unpaked Extension
 * Start Surfing
 <p align="center">
-  <img src="https://i.ibb.co/nNPJSBjG/image-2026-06-24-110745180.png">
+  <video src="https://jumpshare.com/s/CWSbYKLvPG2Lq9QFJTjy">
 </p>
   
 
