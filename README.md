@@ -1,8 +1,14 @@
 # ADbolcker-Extension
-Adblocker For All Browers 
+## Adblocker For All Browers 
 
-For that logo, you can use a description tailored to the branding:
+<p align="center">
+  <img src="https://i.ibb.co/jkN65v36/Adbolcker.png">
+</p>
 
+# :computer: Ui
+<p align="center">
+  <img src="">
+</p>
 ADLocker – Secure Ad Blocking & Privacy Protection
 
 ADLocker is a modern ad-blocking extension built to deliver a cleaner, faster, and safer browsing experience. Designed with both performance and privacy in mind, ADLocker effectively blocks intrusive advertisements, pop-ups, banners, autoplay video ads, and tracking scripts that clutter websites and slow down your browser.
