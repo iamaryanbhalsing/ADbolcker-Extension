@@ -1,5 +1,5 @@
 # ADbolcker-Extension
-## Adblocker For All Browers 
+## Adlocker For All Browers 
 
 <p align="center">
   <img src="https://i.ibb.co/jkN65v36/Adbolcker.png">
@@ -29,6 +29,3 @@ Why ADLocker?
 The internet should be fast, private, and enjoyable. ADLocker gives users greater control over their browsing experience by eliminating intrusive advertising and unnecessary tracking technologies. Whether you're studying, working, streaming, or simply browsing the web, ADLocker helps create a cleaner and more productive online environment.
 
 ADLocker — Lock Out Ads. Unlock a Better Web. 🔒🚀
-
-# Developed by 
-## Aryan Bhalsing.
