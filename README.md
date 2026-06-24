@@ -26,10 +26,11 @@ ADLocker – Secure Ad Blocking & Privacy Protection
 
 # :gift: Installation:
 * Windows:
-*Download The Zip File in Code
-*Enable Developer Setting
-*Load Unpaked Extension
-*Start Surfing
+* Download The Zip File in Code
+* Enable Developer Setting
+* Load Unpaked Extension
+* Start Surfing
+
 
 Why ADLocker?
 
