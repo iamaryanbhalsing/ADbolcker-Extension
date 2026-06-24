@@ -32,7 +32,7 @@ ADLocker – Secure Ad Blocking & Privacy Protection
 * Enable Developer Setting
 * Load Unpaked Extension
 * Start Surfing
-
+* Installation Video :  "https://jumpshare.com/s/CWSbYKLvPG2Lq9QFJTjy"
 
 <p align="center">
   <video src="https://jumpshare.com/s/CWSbYKLvPG2Lq9QFJTjy">
