@@ -68,6 +68,10 @@ Its For Educational Purposes Only
   <a href="https://leetcode.com/iamaryanbhalsing">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
+   </a>
+  <a href="https://www.instagram.com/iam._aryanbhalsing/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
