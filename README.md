@@ -5,11 +5,13 @@
   <img src="https://i.ibb.co/jkN65v36/Adbolcker.png">
 </p>
 
+
 # :computer: Ui
 <p align="center">
   <img src="https://i.ibb.co/nNPJSBjG/image-2026-06-24-110745180.png">
 </p>
 ADLocker – Secure Ad Blocking & Privacy Protection
+
 
 # :satellite: Features:
 🔒 Privacy Protection – Blocks trackers and monitoring scripts that attempt to collect browsing data.
@@ -32,7 +34,7 @@ ADLocker – Secure Ad Blocking & Privacy Protection
 * Start Surfing
 
 
-Why ADLocker?
+# Why ADLocker?
 
 The internet should be fast, private, and enjoyable. ADLocker gives users greater control over their browsing experience by eliminating intrusive advertising and unnecessary tracking technologies. Whether you're studying, working, streaming, or simply browsing the web, ADLocker helps create a cleaner and more productive online environment.
 
